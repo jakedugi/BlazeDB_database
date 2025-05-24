@@ -1,4 +1,7 @@
-# BlazeDB Query Processing
+# BlazeDB — Lightweight SQL Query Engine in Java
+
+BlazeDB is a lightweight, from-scratch SQL query engine implemented in Java for my Advanced Database Systems course project.  
+It demonstrates efficient relational join processing, selection disambiguation, and logical optimization strategies.
 
 This module outlines a fundamental query processor that emphasizes efficiency in join evaluation. By restructuring how selection and join conditions are interpreted and applied, it minimizes intermediate result sizes and accelerates execution.
 
